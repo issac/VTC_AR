@@ -1,0 +1,1229 @@
+Ti隨行
+v7
+r0
+t296963672.630334
+cCheck dependencies
+cProcessInfoPlistFile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Info.plist III_AR_Navigation-Info.plist
+cCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/MainWindow.xib
+cCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/SecondView.xib
+cCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.xib
+cCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.xib
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/SFIcon.png SFIcon.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/North.png North.png
+cCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.xib
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/issac.png issac.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/compass_5.png compass_5.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Hotel.png Hotel.png
+cCpResource "build/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD-small.png" "Jiannan RD-small.png"
+cCpResource "build/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD.png" "Jiannan RD.png"
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/miramar.png miramar.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/wego.png wego.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/airport.png airport.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/nightmarket.png nightmarket.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/tfam.png tfam.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/yuanshan.png yuanshan.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/home_30.png home_30.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/info_30.png info_30.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/73-radar.png 73-radar.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/86-camera.png 86-camera.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/callout_center.png callout_center.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/callout_left.png callout_left.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/callout_right.png callout_right.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/drama.png drama.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Eco.png Eco.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Guting.png Guting.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/KStemple.png KStemple.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/LStemple.png LStemple.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/music.png music.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/music2.png music2.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/park.png park.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/president.png president.png
+cCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/seniorschool.png seniorschool.png
+cProcessPCH /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch.gch III_AR_Navigation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/main.o /Users/chienaman/Desktop/III_AR_Navigation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_NavigationAppDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARSecondeViewController.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CameraDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/LocationDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARFirstViewController.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARDataSingleton.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/Detail1.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/FirstViewController.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/cameraAnnotationAppDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CallOutView.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/SFAnnotation.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation normal i386
+cGenerateDSYMFile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app.dSYM /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation
+cTouch /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004BA0487800000000000000EE
+t1268795512
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C3000000000004AFC0
+t1261134275
+s307136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B6372000000000010EB60
+t1261134706
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/chienaman/Desktop/III_AR_Navigation/73-radar.png
+c0000000049FD889E0000000000000378
+t1241352350
+s888
+
+N/Users/chienaman/Desktop/III_AR_Navigation/86-camera.png
+c000000004A3DCC94000000000000015A
+t1245564052
+s346
+
+N/Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.h
+c000000004BCC23FC0000000000000179
+t1271669756
+s377
+i<Foundation/Foundation.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m
+c000000004BBEFD920000000000000134
+t1270807954
+s308
+i"CameraDelegate.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.h
+c000000004BDE8280000000000000013D
+t1272873600
+s317
+i<Foundation/Foundation.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m
+c000000004BDE82840000000000000278
+t1272873604
+s632
+i"ARDataSingleton.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.h
+c000000004BFF25050000000000000897
+t1275012357
+s2199
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"CameraDelegate.h"
+i<QuartzCore/QuartzCore.h>
+i"SFAnnotation.h"
+i"CallOutView.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m
+c000000004C0316CD0000000000006972
+t1275270861
+s26994
+i"ARFirstViewController.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.xib
+c000000004BEA61CA0000000000004EB4
+t1273651658
+s20148
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.h
+c000000004BF5FBE60000000000000532
+t1274412006
+s1330
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"SFAnnotation.h"
+i"Detail1.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m
+c000000004BFF9175000000000000799B
+t1275040117
+s31131
+i"ARSecondeViewController.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.xib
+c000000004BEBDC7C0000000000004DEB
+t1273748604
+s19947
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.h
+c000000004C0315AA0000000000000299
+t1275270570
+s665
+i<UIKit/UIKit.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m
+c000000004BFCD6B80000000000001B11
+t1274861240
+s6929
+i"CallOutView.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.h
+c000000004BEF3F2A00000000000001B4
+t1273970474
+s436
+i<UIKit/UIKit.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m
+c000000004BEF41C20000000000000B82
+t1273971138
+s2946
+i"Detail1.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.xib
+c000000004BEEE8BE0000000000003FAE
+t1273948350
+s16302
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.h
+c000000004BF04B200000000000000558
+t1274039072
+s1368
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"CallOutView.h"
+i<QuartzCore/QuartzCore.h>
+i"SFAnnotation.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m
+c000000004BF03DC20000000000004024
+t1274035650
+s16420
+i"FirstViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.h
+c000000004BEA603600000000000004CD
+t1273651254
+s1229
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"ARFirstViewController.h"
+i"ARSecondeViewController.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m
+c000000004C0316A50000000000000C99
+t1275270821
+s3225
+i"III_AR_NavigationAppDelegate.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.h
+c000000004BEFFE1C00000000000003B9
+t1274019356
+s953
+i<MapKit/MapKit.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m
+c000000004BEFFE2600000000000005AC
+t1274019366
+s1452
+i"SFAnnotation.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Default.png
+c000000004BDA7B22000000000003C517
+t1272609570
+s247063
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Eco.png
+c000000004BF622C8000000000003D970
+t1274421960
+s252272
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Guting.png
+c000000004BF622F7000000000003341A
+t1274422007
+s209946
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Hotel.png
+c000000004BEF577C000000000003335A
+t1273976700
+s209754
+
+N/Users/chienaman/Desktop/III_AR_Navigation/III_AR_Navigation_Prefix.pch
+c000000004BBED58400000000000000CB
+t1270797700
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Jiannan RD-small.png
+c000000004BEB95520000000000000AA5
+t1273730386
+s2725
+
+N/Users/chienaman/Desktop/III_AR_Navigation/Jiannan RD.png
+c000000004BEF5778000000000002FD6C
+t1273976696
+s195948
+
+N/Users/chienaman/Desktop/III_AR_Navigation/KStemple.png
+c000000004BF622830000000000031D64
+t1274421891
+s204132
+
+N/Users/chienaman/Desktop/III_AR_Navigation/LStemple.png
+c000000004BF623D20000000000042DBF
+t1274422226
+s273855
+
+N/Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.h
+c000000004BC407F200000000000000F0
+t1271138290
+s240
+i<Foundation/Foundation.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m
+c000000004BC407F200000000000000E0
+t1271138290
+s224
+i"LocationDelegate.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/MainWindow.xib
+c000000004BF09DEC0000000000007EA2
+t1274060268
+s32418
+
+N/Users/chienaman/Desktop/III_AR_Navigation/North.png
+c000000004BE0E2820000000000000EF2
+t1273029250
+s3826
+
+N/Users/chienaman/Desktop/III_AR_Navigation/SFIcon.png
+c000000004B96E7580000000000000107
+t1268180824
+s263
+
+N/Users/chienaman/Desktop/III_AR_Navigation/SecondView.xib
+c000000004BBED58400000000000022F9
+t1270797700
+s8953
+
+N/Users/chienaman/Desktop/III_AR_Navigation/airport.png
+c000000004BEF5CB40000000000020A71
+t1273978036
+s133745
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app
+t1275270872
+s1428
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app.dSYM
+t1275270872
+s102
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/73-radar.png
+t1275270870
+s888
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/86-camera.png
+t1275270870
+s346
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/ARFirstViewController.nib
+t1275270870
+s2045
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/ARSecondeViewController.nib
+t1275270870
+s1904
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Default.png
+t1275270870
+s247063
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Detail1.nib
+t1275270870
+s1144
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Eco.png
+t1275270870
+s252272
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Guting.png
+t1275270870
+s209946
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Hotel.png
+t1275270870
+s209754
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation
+t1275270872
+s114720
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Info.plist
+t1275270869
+s626
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD-small.png
+t1275270870
+s2725
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD.png
+t1275270870
+s195948
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/KStemple.png
+t1275270870
+s204132
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/LStemple.png
+t1275270870
+s273855
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/MainWindow.nib
+t1275270869
+s3603
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/North.png
+t1275270870
+s3826
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/PkgInfo
+t1275270869
+s8
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/SFIcon.png
+t1275270870
+s263
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/SecondView.nib
+t1275270869
+s2510
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/airport.png
+t1275270870
+s133745
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/callout_center.png
+t1275270870
+s3593
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/callout_left.png
+t1275270870
+s3445
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/callout_right.png
+t1275270870
+s3463
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/compass_5.png
+t1275270870
+s13496
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/drama.png
+t1275270870
+s201282
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/home_30.png
+t1275270870
+s326
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/icon.png
+t1275270870
+s10191
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/info_30.png
+t1275270870
+s424
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/issac.png
+t1275270870
+s248776
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/miramar.png
+t1275270870
+s271850
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/music.png
+t1275270870
+s232090
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/music2.png
+t1275270870
+s248596
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/nightmarket.png
+t1275270870
+s284838
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/park.png
+t1275270870
+s265090
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/president.png
+t1275270870
+s222828
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/seniorschool.png
+t1275270870
+s171781
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/tfam.png
+t1275270870
+s158602
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/wego.png
+t1275270870
+s266366
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/yuanshan.png
+t1275270870
+s218020
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARDataSingleton.o
+t1275270871
+s6700
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARFirstViewController.o
+t1275270872
+s93664
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARSecondeViewController.o
+t1275270871
+s73404
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CallOutView.o
+t1275270872
+s30992
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CameraDelegate.o
+t1275270871
+s10364
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/Detail1.o
+t1275270871
+s32520
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/FirstViewController.o
+t1275270872
+s65508
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_Navigation.LinkFileList
+c000000004C0316D500000000000006F5
+t1275270869
+s1781
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_NavigationAppDelegate.o
+t1275270871
+s50688
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/LocationDelegate.o
+t1275270871
+s4912
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/SFAnnotation.o
+t1275270872
+s15328
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/cameraAnnotationAppDelegate.o
+t1275270872
+s42376
+
+N/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/main.o
+t1275270871
+s5964
+
+N/Users/chienaman/Desktop/III_AR_Navigation/callout_center.png
+c000000004B383FFC0000000000000E09
+t1261977596
+s3593
+
+N/Users/chienaman/Desktop/III_AR_Navigation/callout_left.png
+c000000004B383FFC0000000000000D75
+t1261977596
+s3445
+
+N/Users/chienaman/Desktop/III_AR_Navigation/callout_right.png
+c000000004B383FFC0000000000000D87
+t1261977596
+s3463
+
+N/Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.h
+c000000004BEEA072000000000000015A
+t1273929842
+s346
+i<UIKit/UIKit.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m
+c000000004BEFE13E000000000000036E
+t1274011966
+s878
+i"cameraAnnotationAppDelegate.h"
+i"FirstViewController.h"
+
+N/Users/chienaman/Desktop/III_AR_Navigation/compass_5.png
+c000000004BEA4BE000000000000034B8
+t1273646048
+s13496
+
+N/Users/chienaman/Desktop/III_AR_Navigation/drama.png
+c000000004BF623560000000000031242
+t1274422102
+s201282
+
+N/Users/chienaman/Desktop/III_AR_Navigation/home_30.png
+c0000000049F7B5BE0000000000000146
+t1240970686
+s326
+
+N/Users/chienaman/Desktop/III_AR_Navigation/icon.png
+c000000004BBAC40800000000000027CF
+t1270531080
+s10191
+
+N/Users/chienaman/Desktop/III_AR_Navigation/info_30.png
+c0000000049F7B5EA00000000000001A8
+t1240970730
+s424
+
+N/Users/chienaman/Desktop/III_AR_Navigation/issac.png
+c000000004BE9184E000000000003CBC8
+t1273567310
+s248776
+
+N/Users/chienaman/Desktop/III_AR_Navigation/main.m
+c000000004BBED584000000000000016E
+t1270797700
+s366
+i<UIKit/UIKit.h>
+
+N/Users/chienaman/Desktop/III_AR_Navigation/miramar.png
+c000000004BEF577600000000000425EA
+t1273976694
+s271850
+
+N/Users/chienaman/Desktop/III_AR_Navigation/music.png
+c000000004BF624010000000000038A9A
+t1274422273
+s232090
+
+N/Users/chienaman/Desktop/III_AR_Navigation/music2.png
+c000000004BF62485000000000003CB14
+t1274422405
+s248596
+
+N/Users/chienaman/Desktop/III_AR_Navigation/nightmarket.png
+c000000004BEF5F5000000000000458A6
+t1273978704
+s284838
+
+N/Users/chienaman/Desktop/III_AR_Navigation/park.png
+c000000004BF624B20000000000040B82
+t1274422450
+s265090
+
+N/Users/chienaman/Desktop/III_AR_Navigation/president.png
+c000000004BF624C9000000000003666C
+t1274422473
+s222828
+
+N/Users/chienaman/Desktop/III_AR_Navigation/seniorschool.png
+c000000004BF623980000000000029F05
+t1274422168
+s171781
+
+N/Users/chienaman/Desktop/III_AR_Navigation/tfam.png
+c000000004BEF5C240000000000026B8A
+t1273977892
+s158602
+
+N/Users/chienaman/Desktop/III_AR_Navigation/wego.png
+c000000004BEF5774000000000004107E
+t1273976692
+s266366
+
+N/Users/chienaman/Desktop/III_AR_Navigation/yuanshan.png
+c000000004BEF5C9200000000000353A4
+t1273978002
+s218020
+
+N/var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch.gch
+t1272591254
+s8753336
+
+NIII_AR_Navigation-Info.plist
+c000000004BE0EBEC000000000000039C
+t1273031660
+s924
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296963668#296963669#0(0"0(0#1#0"2489249088#0"0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARDataSingleton.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.822963
+e296963671.906138
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARDataSingleton.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m296963671#296963671#0(0"0(0#0#68"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m2489249088#2063"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARDataSingleton.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARDataSingleton.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARFirstViewController.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.775164
+e296963672.104426
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARFirstViewController.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m296963671#296963672#0(0"0(0#0#74"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m2489249088#2075"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARFirstViewController.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARSecondeViewController.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.498701
+e296963671.735538
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARSecondeViewController.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m: In function '-[ARSecondeViewController locationManager:didUpdateHeading:]':
+o/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m:33: warning: unused variable 'myDistort'
+lSLF07#2@84"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m296963671#296963671#0(272"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m: In function '-[ARSecondeViewController locationManager:didUpdateHeading:]':/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m:33: warning: unused variable 'myDistort'1(22@27"Unused variable 'myDistort'296963671#154#118#0(6@76"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m296732917#33#0#33#0#19"unused variable '*'0(0#0#76"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m2489249088#2079"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/ARSecondeViewController.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CallOutView.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963672.215922
+e296963672.380131
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CallOutView.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m296963672#296963672#0(0"0(0#0#64"/Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m2489249088#2055"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/CallOutView.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CallOutView.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CameraDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.646332
+e296963671.775032
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CameraDelegate.o
+x/Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m296963671#296963671#0(0"0(0#0#59"/Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m2489249088#2053"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/CameraDelegate.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/CameraDelegate.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/Detail1.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.906279
+e296963671.994446
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/Detail1.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m296963671#296963671#0(0"0(0#0#60"/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m2489249088#2047"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/Detail1.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/FirstViewController.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.994589
+e296963672.265119
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/FirstViewController.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m: In function '-[FirstViewController test]':
+o/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m:256: warning: unused variable 'testtest'
+lSLF07#2@80"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m296963671#296963672#0(231"/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m: In function '-[FirstViewController test]':/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m:256: warning: unused variable 'testtest'1(22@26"Unused variable 'testtest'296963672#117#114#0(6@72"/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m295728450#256#0#256#0#19"unused variable '*'0(0#0#72"/Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m2489249088#2071"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/FirstViewController.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_NavigationAppDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963670.921639
+e296963671.646194
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_NavigationAppDelegate.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m296963670#296963671#0(0"0(0#0#81"/Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m2489249088#2089"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/III_AR_NavigationAppDelegate.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_NavigationAppDelegate.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/LocationDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963671.735712
+e296963671.822816
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/LocationDelegate.o
+x/Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m296963671#296963671#0(0"0(0#0#61"/Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m2489249088#2057"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/LocationDelegate.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/LocationDelegate.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/SFAnnotation.o /Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963672.265257
+e296963672.363846
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/SFAnnotation.o
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m296963672#296963672#0(0"0(0#0#65"/Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m2489249088#2057"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/Classes/SFAnnotation.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/SFAnnotation.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/cameraAnnotationAppDelegate.o /Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963672.104572
+e296963672.215758
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/cameraAnnotationAppDelegate.o
+x/Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m296963672#296963672#0(0"0(0#0#72"/Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m2489249088#2079"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/cameraAnnotationAppDelegate.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/cameraAnnotationAppDelegate.o0#
+
+CCompileC build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/main.o /Users/chienaman/Desktop/III_AR_Navigation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296963670.920053
+e296963671.498566
+r1
+xCompileC
+xbuild/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/main.o
+x/Users/chienaman/Desktop/III_AR_Navigation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/chienaman/Desktop/III_AR_Navigation/main.m296963670#296963671#0(0"0(0#0#49"/Users/chienaman/Desktop/III_AR_Navigation/main.m2489249088#2033"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-generated-files.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-own-target-headers.hmap -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-all-target-headers.hmap -iquote /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/III_AR_Navigation-project-headers.hmap -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -I/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/include -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources/i386 -I/Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/DerivedSources -include /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch -c /Users/chienaman/Desktop/III_AR_Navigation/main.m -o /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.xib
+s296963669.854151
+e296963670.361457
+r1
+xCompileXIB
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.xib
+lSLF07#2@44"CompileXIB Classes/ARFirstViewController.xib296963669#296963670#0(0"0(0#0#76"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.xib2489249088#534"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/ARFirstViewController.nib /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARFirstViewController.xib0#
+
+CCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.xib
+s296963669.883276
+e296963670.360808
+r1
+xCompileXIB
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.xib
+lSLF07#2@46"CompileXIB Classes/ARSecondeViewController.xib296963669#296963670#0(0"0(0#0#78"/Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.xib2489249088#538"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/ARSecondeViewController.nib /Users/chienaman/Desktop/III_AR_Navigation/Classes/ARSecondeViewController.xib0#
+
+CCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.xib
+s296963670.382028
+e296963670.919437
+r1
+xCompileXIB
+x/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.xib
+lSLF07#2@30"CompileXIB Classes/Detail1.xib296963670#296963670#0(0"0(0#0#62"/Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.xib2489249088#506"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Detail1.nib /Users/chienaman/Desktop/III_AR_Navigation/Classes/Detail1.xib0#
+
+CCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/MainWindow.xib
+s296963669.162140
+e296963669.883157
+r1
+xCompileXIB
+x/Users/chienaman/Desktop/III_AR_Navigation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296963669#296963669#0(0"0(0#0#57"/Users/chienaman/Desktop/III_AR_Navigation/MainWindow.xib2489249088#504"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/MainWindow.nib /Users/chienaman/Desktop/III_AR_Navigation/MainWindow.xib0#
+
+CCompileXIB /Users/chienaman/Desktop/III_AR_Navigation/SecondView.xib
+s296963669.169815
+e296963669.854020
+r1
+xCompileXIB
+x/Users/chienaman/Desktop/III_AR_Navigation/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib296963669#296963669#0(0"0(0#0#57"/Users/chienaman/Desktop/III_AR_Navigation/SecondView.xib2489249088#504"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/SecondView.nib /Users/chienaman/Desktop/III_AR_Navigation/SecondView.xib0#
+
+CCpResource "build/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD-small.png" "Jiannan RD-small.png"
+s296963670.413458
+e296963670.445704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD-small.png
+xJiannan RD-small.png
+lSLF07#2@25"Copy Jiannan RD-small.png296963670#296963670#0(0"0(0#0#63"/Users/chienaman/Desktop/III_AR_Navigation/Jiannan RD-small.png2489249088#488"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/chienaman/Desktop/III_AR_Navigation/Jiannan RD-small.png" /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource "build/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD.png" "Jiannan RD.png"
+s296963670.415609
+e296963670.445863
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/Jiannan RD.png
+xJiannan RD.png
+lSLF07#2@19"Copy Jiannan RD.png296963670#296963670#0(0"0(0#0#57"/Users/chienaman/Desktop/III_AR_Navigation/Jiannan RD.png2489249088#482"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/chienaman/Desktop/III_AR_Navigation/Jiannan RD.png" /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/73-radar.png 73-radar.png
+s296963670.472285
+e296963670.542882
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/73-radar.png
+x73-radar.png
+lSLF07#2@17"Copy 73-radar.png296963670#296963670#0(0"0(0#0#55"/Users/chienaman/Desktop/III_AR_Navigation/73-radar.png2489249088#478"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/73-radar.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/86-camera.png 86-camera.png
+s296963670.478250
+e296963670.543030
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/86-camera.png
+x86-camera.png
+lSLF07#2@18"Copy 86-camera.png296963670#296963670#0(0"0(0#0#56"/Users/chienaman/Desktop/III_AR_Navigation/86-camera.png2489249088#479"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/86-camera.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Default.png Default.png
+s296963670.361571
+e296963670.389240
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png296963670#296963670#0(0"0(0#0#54"/Users/chienaman/Desktop/III_AR_Navigation/Default.png2489249088#477"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/Default.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Eco.png Eco.png
+s296963670.514382
+e296963670.542533
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/Eco.png
+xEco.png
+lSLF07#2@12"Copy Eco.png296963670#296963670#0(0"0(0#0#50"/Users/chienaman/Desktop/III_AR_Navigation/Eco.png2489249088#473"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/Eco.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Guting.png Guting.png
+s296963670.521580
+e296963670.542721
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/Guting.png
+xGuting.png
+lSLF07#2@15"Copy Guting.png296963670#296963670#0(0"0(0#0#53"/Users/chienaman/Desktop/III_AR_Navigation/Guting.png2489249088#476"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/Guting.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/Hotel.png Hotel.png
+s296963670.402323
+e296963670.445544
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/Hotel.png
+xHotel.png
+lSLF07#2@14"Copy Hotel.png296963670#296963670#0(0"0(0#0#52"/Users/chienaman/Desktop/III_AR_Navigation/Hotel.png2489249088#475"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/Hotel.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/KStemple.png KStemple.png
+s296963670.532620
+e296963670.577615
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/KStemple.png
+xKStemple.png
+lSLF07#2@17"Copy KStemple.png296963670#296963670#0(0"0(0#0#55"/Users/chienaman/Desktop/III_AR_Navigation/KStemple.png2489249088#478"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/KStemple.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/LStemple.png LStemple.png
+s296963670.543427
+e296963670.576872
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/LStemple.png
+xLStemple.png
+lSLF07#2@17"Copy LStemple.png296963670#296963670#0(0"0(0#0#55"/Users/chienaman/Desktop/III_AR_Navigation/LStemple.png2489249088#478"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/LStemple.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/North.png North.png
+s296963670.373924
+e296963670.390032
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/North.png
+xNorth.png
+lSLF07#2@14"Copy North.png296963670#296963670#0(0"0(0#0#52"/Users/chienaman/Desktop/III_AR_Navigation/North.png2489249088#475"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/North.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/SFIcon.png SFIcon.png
+s296963670.363334
+e296963670.389720
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/SFIcon.png
+xSFIcon.png
+lSLF07#2@15"Copy SFIcon.png296963670#296963670#0(0"0(0#0#53"/Users/chienaman/Desktop/III_AR_Navigation/SFIcon.png2489249088#476"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/SFIcon.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/airport.png airport.png
+s296963670.431526
+e296963670.446320
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/airport.png
+xairport.png
+lSLF07#2@16"Copy airport.png296963670#296963670#0(0"0(0#0#54"/Users/chienaman/Desktop/III_AR_Navigation/airport.png2489249088#477"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/airport.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/callout_center.png callout_center.png
+s296963670.479595
+e296963670.543177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/callout_center.png
+xcallout_center.png
+lSLF07#2@23"Copy callout_center.png296963670#296963670#0(0"0(0#0#61"/Users/chienaman/Desktop/III_AR_Navigation/callout_center.png2489249088#484"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/callout_center.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/callout_left.png callout_left.png
+s296963670.480878
+e296963670.543329
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/callout_left.png
+xcallout_left.png
+lSLF07#2@21"Copy callout_left.png296963670#296963670#0(0"0(0#0#59"/Users/chienaman/Desktop/III_AR_Navigation/callout_left.png2489249088#482"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/callout_left.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/callout_right.png callout_right.png
+s296963670.491120
+e296963670.542214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/callout_right.png
+xcallout_right.png
+lSLF07#2@22"Copy callout_right.png296963670#296963670#0(0"0(0#0#60"/Users/chienaman/Desktop/III_AR_Navigation/callout_right.png2489249088#483"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/callout_right.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/compass_5.png compass_5.png
+s296963670.395378
+e296963670.445389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/compass_5.png
+xcompass_5.png
+lSLF07#2@18"Copy compass_5.png296963670#296963670#0(0"0(0#0#56"/Users/chienaman/Desktop/III_AR_Navigation/compass_5.png2489249088#479"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/compass_5.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/drama.png drama.png
+s296963670.498543
+e296963670.542387
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/drama.png
+xdrama.png
+lSLF07#2@14"Copy drama.png296963670#296963670#0(0"0(0#0#52"/Users/chienaman/Desktop/III_AR_Navigation/drama.png2489249088#475"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/drama.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/home_30.png home_30.png
+s296963670.461292
+e296963670.490656
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/home_30.png
+xhome_30.png
+lSLF07#2@16"Copy home_30.png296963670#296963670#0(0"0(0#0#54"/Users/chienaman/Desktop/III_AR_Navigation/home_30.png2489249088#477"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/home_30.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/icon.png icon.png
+s296963670.366065
+e296963670.389882
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png296963670#296963670#0(0"0(0#0#51"/Users/chienaman/Desktop/III_AR_Navigation/icon.png2489249088#474"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/icon.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/info_30.png info_30.png
+s296963670.467525
+e296963670.490844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/info_30.png
+xinfo_30.png
+lSLF07#2@16"Copy info_30.png296963670#296963670#0(0"0(0#0#54"/Users/chienaman/Desktop/III_AR_Navigation/info_30.png2489249088#477"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/info_30.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/issac.png issac.png
+s296963670.390131
+e296963670.445189
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/issac.png
+xissac.png
+lSLF07#2@14"Copy issac.png296963670#296963670#0(0"0(0#0#52"/Users/chienaman/Desktop/III_AR_Navigation/issac.png2489249088#475"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/issac.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/miramar.png miramar.png
+s296963670.422389
+e296963670.446013
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/miramar.png
+xmiramar.png
+lSLF07#2@16"Copy miramar.png296963670#296963670#0(0"0(0#0#54"/Users/chienaman/Desktop/III_AR_Navigation/miramar.png2489249088#477"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/miramar.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/music.png music.png
+s296963670.550220
+e296963670.577033
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/music.png
+xmusic.png
+lSLF07#2@14"Copy music.png296963670#296963670#0(0"0(0#0#52"/Users/chienaman/Desktop/III_AR_Navigation/music.png2489249088#475"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/music.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/music2.png music2.png
+s296963670.553315
+e296963670.577177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/music2.png
+xmusic2.png
+lSLF07#2@15"Copy music2.png296963670#296963670#0(0"0(0#0#53"/Users/chienaman/Desktop/III_AR_Navigation/music2.png2489249088#476"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/music2.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/nightmarket.png nightmarket.png
+s296963670.441073
+e296963670.491017
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/nightmarket.png
+xnightmarket.png
+lSLF07#2@20"Copy nightmarket.png296963670#296963670#0(0"0(0#0#58"/Users/chienaman/Desktop/III_AR_Navigation/nightmarket.png2489249088#481"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/nightmarket.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/park.png park.png
+s296963670.560271
+e296963670.577320
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/park.png
+xpark.png
+lSLF07#2@13"Copy park.png296963670#296963670#0(0"0(0#0#51"/Users/chienaman/Desktop/III_AR_Navigation/park.png2489249088#474"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/park.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/president.png president.png
+s296963670.563259
+e296963670.577463
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/president.png
+xpresident.png
+lSLF07#2@18"Copy president.png296963670#296963670#0(0"0(0#0#56"/Users/chienaman/Desktop/III_AR_Navigation/president.png2489249088#479"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/president.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/seniorschool.png seniorschool.png
+s296963670.573427
+e296963670.583571
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/seniorschool.png
+xseniorschool.png
+lSLF07#2@21"Copy seniorschool.png296963670#296963670#0(0"0(0#0#59"/Users/chienaman/Desktop/III_AR_Navigation/seniorschool.png2489249088#482"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/seniorschool.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/tfam.png tfam.png
+s296963670.446424
+e296963670.482247
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/tfam.png
+xtfam.png
+lSLF07#2@13"Copy tfam.png296963670#296963670#0(0"0(0#0#51"/Users/chienaman/Desktop/III_AR_Navigation/tfam.png2489249088#474"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/tfam.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/wego.png wego.png
+s296963670.426701
+e296963670.446160
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/wego.png
+xwego.png
+lSLF07#2@13"Copy wego.png296963670#296963670#0(0"0(0#0#51"/Users/chienaman/Desktop/III_AR_Navigation/wego.png2489249088#474"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/wego.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CCpResource build/Debug-iphonesimulator/III_AR_Navigation.app/yuanshan.png yuanshan.png
+s296963670.449162
+e296963670.482431
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/III_AR_Navigation.app/yuanshan.png
+xyuanshan.png
+lSLF07#2@17"Copy yuanshan.png296963670#296963670#0(0"0(0#0#55"/Users/chienaman/Desktop/III_AR_Navigation/yuanshan.png2489249088#478"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chienaman/Desktop/III_AR_Navigation/yuanshan.png /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+
+CGenerateDSYMFile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app.dSYM /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation
+s296963672.576748
+e296963672.622082
+r1
+xGenerateDSYMFile
+x/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app.dSYM
+x/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/III_AR_Navigation.app.dSYM build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation296963672#296963672#0(0"0(0#0#110"/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation2489249088#425"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation -o /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app.dSYM0#
+
+CLd /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation normal i386
+s296963672.380257
+e296963672.576520
+r1
+xLd
+x/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation
+xnormal
+xi386
+lSLF07#2@115"Link /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation296963672#296963672#0(0"0(0#0#0"2489249088#988"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -F/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator -filelist /Users/chienaman/Desktop/III_AR_Navigation/build/III_AR_Navigation.build/Debug-iphonesimulator/i隨行.build/Objects-normal/i386/III_AR_Navigation.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -framework QuartzCore -o /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/III_AR_Navigation0#
+
+CProcessInfoPlistFile /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Info.plist III_AR_Navigation-Info.plist
+s296963669.150778
+e296963669.162012
+r1
+xProcessInfoPlistFile
+x/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Info.plist
+xIII_AR_Navigation-Info.plist
+lSLF07#2@36"Process III_AR_Navigation-Info.plist296963669#296963669#0(0"0(0#0#71"/Users/chienaman/Desktop/III_AR_Navigation/III_AR_Navigation-Info.plist2489249088#521"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility III_AR_Navigation-Info.plist -genpkginfo /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app/Info.plist0#
+
+CProcessPCH /var/folders/gL/gLAqQ88gEVqJGk44vlDx-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/III_AR_Navigation_Prefix-gffqrjfdauneabgsgbfvakccgpsj/III_AR_Navigation_Prefix.pch.gch III_AR_Navigation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app
+s296963672.622192
+e296963672.630260
+r1
+xTouch
+x/Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app
+lSLF07#2@98"Touch /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app296963672#296963672#0(0"0(0#0#0"2489249088#296"    cd /Users/chienaman/Desktop/III_AR_Navigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/chienaman/Desktop/III_AR_Navigation/build/Debug-iphonesimulator/III_AR_Navigation.app0#
+

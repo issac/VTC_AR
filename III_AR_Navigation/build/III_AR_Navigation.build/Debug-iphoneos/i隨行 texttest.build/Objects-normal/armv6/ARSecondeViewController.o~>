@@ -1,0 +1,6 @@
+/Users/chienaman/Desktop/0719 texttest/III_AR_Navigation/Classes/ARSecondeViewController.m: In function '-[ARSecondeViewController locationManager:didUpdateHeading:]':
+/Users/chienaman/Desktop/0719 texttest/III_AR_Navigation/Classes/ARSecondeViewController.m:35: warning: unused variable 'myDistort'
+/Users/chienaman/Desktop/0719 texttest/III_AR_Navigation/Classes/ARSecondeViewController.m: In function '-[ARSecondeViewController computeRelativeDistance:Destination:]':
+/Users/chienaman/Desktop/0719 texttest/III_AR_Navigation/Classes/ARSecondeViewController.m:392: warning: 'getDistanceFrom:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h:237)
+/Users/chienaman/Desktop/0719 texttest/III_AR_Navigation/Classes/ARSecondeViewController.m: In function '-[ARSecondeViewController viewDidLoad]':
+/Users/chienaman/Desktop/0719 texttest/III_AR_Navigation/Classes/ARSecondeViewController.m:1038: warning: passing argument 1 of 'componentsSeparatedByString:' from incompatible pointer type
